@@ -52,7 +52,7 @@ echo “type character/message here” >/dev/rfcomm0
 The Receiver node of BuoyWatch is composed of Raspberry Pi and LoRa Module. This is to wirelessly communicate with the deployed buoy and to send data to and from the different nodes. 
 
 ## Usage
-The bash script ``run`` runs ``date_receiver.py``. Make``run`` executable and run.
+The bash script ``run`` runs ``data_receiver.py``. Make``run`` executable and run.
 ```bash 
 chmod +x run
 ./run
