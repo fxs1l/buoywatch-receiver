@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#Runs the data receiving device
+python3 data_receiver.py 
